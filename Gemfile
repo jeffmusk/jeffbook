@@ -33,7 +33,8 @@ gem 'jbuilder', '~> 2.5'
 # gem 'bcrypt', '~> 3.1.7'
 # Gemas propias jeff
 gem 'haml-rails'
-
+gem 'devise'
+gem 'omniauth-facebook'
 
 
 
