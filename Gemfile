@@ -36,7 +36,7 @@ gem 'haml-rails'
 gem 'devise'
 gem 'omniauth-facebook'
 
-# gem 'bcrypt'
+gem 'bcrypt', '~> 3.1.7'
 
 
 # Use Capistrano for deployment
