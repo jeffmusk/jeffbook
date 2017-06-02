@@ -37,7 +37,7 @@ gem 'devise'
 gem 'omniauth-facebook'
 
 gem 'bcrypt', '~> 3.1.7'
-
+gem  'flexbox_rb'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
@@ -53,4 +53,4 @@ group :development do
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
-gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
+# gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
